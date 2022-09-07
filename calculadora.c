@@ -13,8 +13,9 @@ printf("BIENVENIDO A LA CALCULADORA");
   scanf("%d",n1);
 
 
-  resta=a-b
+  resta=n1-n2
     printf("El resultado de la Resta es: %.2f\n",resta); 
+  
 
 
 }
