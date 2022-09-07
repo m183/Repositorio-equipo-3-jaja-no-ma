@@ -13,6 +13,10 @@ printf("BIENVENIDO A LA CALCULADORA");
   printf("3.-Resta");
   printf("4.-Division");
   scanf("%d",n1);
+  scanf("%d",n2);
+  
+  
+  
   
   
 
